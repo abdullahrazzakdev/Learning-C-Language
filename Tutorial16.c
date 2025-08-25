@@ -8,10 +8,18 @@ int main()
         printf("%d\n Enter your age\n" , i);
         scanf("%d" , &age);
         if (age>10)
+      
+
+        if (age>10)
         {
-            break;
+            continue;
         }
-        
+        printf("We have not come across any continue statement");
+        printf("We have not come across any continue statement");
+        printf("We have not come across any continue statement");
+        printf("We have not come across any continue statement");
+        printf("We have not come across any continue statement");
+        printf("Abdullah is a great person");
     }
     
     return 0;
