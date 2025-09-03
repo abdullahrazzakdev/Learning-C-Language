@@ -6,7 +6,7 @@ void printstar(int n)
     {
         printf("%c", '*');
     }
-    
+
 }
 int main()
 {
